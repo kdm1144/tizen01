@@ -1,5 +1,6 @@
-# tizen01
-# tizen02
-  * typo
-  * https://github.com/kdm1144/tizen01
+# 찾아가는 공개 SW 체험 캠프 2018.11.23 ~ 2018.11.24
+  * 서원대학교 201310155 김동민
+  
+# Gear-racing-car 빌드
+  
   
